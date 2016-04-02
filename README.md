@@ -1,0 +1,2 @@
+# CommunityDetectionInMultiAttributedGraphs
+Community detection in multi attributed graphs
